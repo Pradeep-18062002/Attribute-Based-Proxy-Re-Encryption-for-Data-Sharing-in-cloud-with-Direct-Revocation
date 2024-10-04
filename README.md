@@ -29,7 +29,7 @@ Data User:
 * Download file 
 * Logout
 
-TA:
+Trust Authority:
 
 * TA can login the account with the correct Credentials
 * View users and owners authorize them
@@ -44,7 +44,7 @@ Proxy Server:
 * Graph
 * Logout
 
-CSP:
+Cloud Service Provider:
 * Login the account with the correct username and password
 * View all uploaded files
 * Graph
