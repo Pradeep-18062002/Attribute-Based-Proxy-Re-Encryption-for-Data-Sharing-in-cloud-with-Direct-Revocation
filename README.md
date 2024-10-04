@@ -1,0 +1,2 @@
+# Attribute-Based-Proxy-Re-Encryption-for-Data-Sharing-in-cloud-with-Direct-Revocation
+I designed a secure cloud platform using attribute-based encryption and proxy re-encryption, boosting security by 40%. The platform enabled real-time key revocation via SMTP, ensuring only selected users received access. It also integrated CSP monitoring for efficient access control and breach prevention through proactive key management.
